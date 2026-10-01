@@ -14,9 +14,8 @@ A lightweight, modern, and user-friendly Web-based **Expense Tracker** applicati
 - **Delete Expense:** Quick deletion of individual transactions.
 
 ---
-
+```
 ## 📁 Project Structure
-
 expense-tracker/
 │
 ├── css/
@@ -27,7 +26,7 @@ expense-tracker/
 └── README.md           # Documentation
 
 ---
-
+```
 ## 🚀 How to Run Locally
 
 1. **Clone or Download** this repository.
